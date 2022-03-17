@@ -1,5 +1,5 @@
 baseurl = "http://www.example.com"
-title = "Konstantinos Platis"
+title = "kplat.is"
 theme = "hugo-coder"
 languagecode = "en"
 defaultcontentlanguage = "en"
@@ -15,10 +15,9 @@ disqusShortname = "yourdiscussshortname"
 [params]
   author = "Konstantinos Platis"
   info = "Full Stack Developer"
-  description = "John Doe's personal website"
+  description = "Konstantinos Platis' personal website"
   keywords = "blog,developer,personal"
   avatarurl = "/images/me.jpg"
-  #gravatar = "john.doe@example.com"
 
   favicon_32 = "/img/favicon-32x32.png"
   favicon_16 = "/img/favicon-16x16.png"
@@ -45,7 +44,7 @@ disqusShortname = "yourdiscussshortname"
   name = "Github"
   icon = "fa fa-github fa-2x"
   weight = 1
-  url = "https://github.com/johndoe/"
+  url = "https://github.com/kplatis"
 [[params.social]]
   name = "Gitlab"
   icon = "fa fa-gitlab fa-2x"
@@ -59,10 +58,18 @@ disqusShortname = "yourdiscussshortname"
 
 # Menu links
 [[menu.main]]
-  name = "Blog"
-  weight = 1
-  url  = "posts/"
-[[menu.main]]
   name = "About"
+  weight = 1
+  url  = "about"
+[[menu.main]]
+  name = "Experience"
   weight = 2
-  url = "about/"
+  url = "experience/"
+[[menu.main]]
+  name = "Education"
+  weight = 3
+  url = "education/"
+[[menu.main]]
+  name = "Blog"
+  weight = 4
+  url  = "posts/"
