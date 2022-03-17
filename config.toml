@@ -4,8 +4,6 @@ theme = "hugo-coder"
 languagecode = "en"
 defaultcontentlanguage = "en"
 
-publishDir="docs"
-
 paginate = 20
 
 pygmentsstyle = "bw"
