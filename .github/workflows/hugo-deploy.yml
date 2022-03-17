@@ -28,6 +28,6 @@ jobs:
         if: github.ref == 'refs/heads/main'
         with:
           external_repository: kplatis/kplatis.github.io
-          deploy_key: ${{ secrets.ACTIONS_DEPLOY_KEY }}
+          personal_token: ${{ secrets.PERSONAL_TOKEN }}
           publish_branch: master
           publish_dir: ./public
