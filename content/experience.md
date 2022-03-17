@@ -1,5 +1,10 @@
++++
+title = "Experience"
+description = "My experience"
+date = "2022-03-16"
+author = "Konstantinos Platis"
++++
 
-# Experience
 
 ## Full Stack Developer @ [Blue Brain Project/EPFL](https://www.epfl.ch/research/domains/bluebrain/)
 

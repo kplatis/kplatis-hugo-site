@@ -1,5 +1,10 @@
++++
+title = "Education"
+description = "My education"
+date = "2022-03-16"
+author = "Konstantinos Platis"
++++
 
-# Education
 
 ## Degrees
 

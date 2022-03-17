@@ -46,15 +46,10 @@ disqusShortname = "yourdiscussshortname"
   weight = 1
   url = "https://github.com/kplatis"
 [[params.social]]
-  name = "Gitlab"
-  icon = "fa fa-gitlab fa-2x"
-  weight = 2
-  url = "https://gitlab.com/johndoe/"
-[[params.social]]
   name = "Twitter"
   icon = "fa fa-twitter fa-2x"
-  weight = 3
-  url = "https://twitter.com/johndoe/"
+  weight = 2
+  url = "https://twitter.com/kplat_is"
 
 # Menu links
 [[menu.main]]
@@ -69,7 +64,3 @@ disqusShortname = "yourdiscussshortname"
   name = "Education"
   weight = 3
   url = "education/"
-[[menu.main]]
-  name = "Blog"
-  weight = 4
-  url  = "posts/"
