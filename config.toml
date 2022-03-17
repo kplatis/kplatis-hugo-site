@@ -1,4 +1,4 @@
-baseurl = "https://kplatis.github.io"
+baseurl = "https://kplat.is"
 title = "kplat.is"
 theme = "hugo-coder"
 languagecode = "en"
