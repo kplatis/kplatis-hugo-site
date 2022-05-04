@@ -20,7 +20,7 @@ series = ["Programming Guide"]
 4. [Single Responsibility / Separation of concerns](#single-responsibility--separation-of-concerns)
 5. [You aren't going to need it](#you-arent-going-to-need-it)
 
-## Principle of the Least Privilege
+## 🚀 Principle of the Least Privilege
 
 📖 [Wiki page](https://en.wikipedia.org/wiki/Principle_of_least_privilege)
 
@@ -32,7 +32,7 @@ Some examples of POLP are the following:
 - `React` Components should receive as props only the information they need
 - `Permission` Each user/group should have access only to the necessary information
 
-## DRY: Don't Repeat Yourself
+## 🚀 DRY: Don't Repeat Yourself
 
 📖 [Wiki page](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself)
 
@@ -45,7 +45,7 @@ Some examples of DRY include:
 - `React` Components that share logic should be written as a single component
 - `Functions` If there is a piece of code that repeats itself, it should be encapsulated in a function
 
-## Composition over Inheritance
+## 🚀 Composition over Inheritance
 
 📖 [Wiki page](https://en.wikipedia.org/wiki/Composition_over_inheritance)
 
@@ -54,7 +54,7 @@ by their composition rather than inheritance from a base or parent class. In oth
 multiple classes that each one of them contributes one or more features. With composition, it is easier to change behavior
 on the fly.
 
-## Single Responsibility / Separation of concerns
+## 🚀 Single Responsibility / Separation of concerns
 
 📖 [Wiki page](https://en.wikipedia.org/wiki/Single-responsibility_principle)
 
@@ -67,7 +67,7 @@ Some examples of this principle:
 An abstract version of the single responsibility principle, is the **Separation of Concerns**, which constitutes a design
 principle for separating a computer program into distinct sections.
 
-## You aren't going to need it
+## 🚀 You aren't going to need it
 
 📖 [Wiki page](https://en.wikipedia.org/wiki/You_aren%27t_gonna_need_it)
 
