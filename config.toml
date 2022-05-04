@@ -69,3 +69,7 @@ disqusShortname = "yourdiscussshortname"
   name = "Education"
   weight = 3
   url = "education/"
+[[menu.main]]
+  name = "Blog"
+  weight = 4
+  url = "posts/"
