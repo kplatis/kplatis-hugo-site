@@ -11,7 +11,6 @@ categories = [
     "programming",
 ]
 series = ["Programming Guide"]
-aliases = ["migrate-from-jekyl"]
 +++
 
 # Table of contents
